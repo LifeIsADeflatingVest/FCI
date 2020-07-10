@@ -1,0 +1,1 @@
+FCI refers to Fiction Complexity Index, which is a little project meant to gauge whether a literary text is about right in terms of complexity for its genre. For more information, see the [relevant page on my Blog](https://blog.homeforfiction.com/2020/06/17/fiction-complexity-index-your-novel-genre/)
